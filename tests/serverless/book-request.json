@@ -1,0 +1,11 @@
+{
+  "book": {
+    "title": " ... ",
+    "id": " ... "
+  },
+  "lender": {
+    "name": "John Doe",
+    "address": " ... ",
+    "phone": " ... "
+  }
+}
